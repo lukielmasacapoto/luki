@@ -113,3 +113,33 @@
 [21Jun2025 01:51:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: apagar<--[HERE]
 [21Jun2025 01:52:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Jun2025 01:52:00.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cerrado<--[HERE]
+[21Jun2025 01:54:15.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iLooky lost connection: Disconnected
+[21Jun2025 01:54:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLooky left the game
+[21Jun2025 01:55:31.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 01:55:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: on<--[HERE]
+[21Jun2025 01:55:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 01:55:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[21Jun2025 01:59:57.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iLooky[/127.254.146.245:43025] logged in with entity id 2196 at (202.43455822138026, 90.02161910956683, 21.16109133781965)
+[21Jun2025 01:59:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLooky joined the game
+[21Jun2025 02:03:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:31.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[21Jun2025 02:03:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[21Jun2025 02:03:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: upload<--[HERE]
+[21Jun2025 02:03:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[21Jun2025 02:03:56.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:56.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: upload<--[HERE]
+[21Jun2025 02:03:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:57.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[21Jun2025 02:03:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:03:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[21Jun2025 02:04:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:04:03.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: on<--[HERE]
+[21Jun2025 02:04:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:04:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[21Jun2025 02:04:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 02:04:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: apagar server porfavot<--[HERE]
+[21Jun2025 02:05:59.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iLooky lost connection: Disconnected
+[21Jun2025 02:05:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLooky left the game
